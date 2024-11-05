@@ -9,7 +9,7 @@ Automatic facial expression classification has significant real-world applicatio
 - Enabling personalized advertisements
 - Improving entertainment experiences
 
-The objective of this project is to develop a deep learning model that accurately classifies facial expressions based on a given dataset.
+The objective of this project is to develop a deep learning neural network model that accurately classifies facial expressions based on a given dataset.
 
 ## 🔍 Approach
 
@@ -34,3 +34,4 @@ This architecture enables the model to capture a hierarchy of features, essentia
 
 The learning curve below shows the training loss over epochs, illustrating the model's convergence:
 
+<img width="471" alt="Screenshot 2024-11-04 at 11 26 40 PM" src="https://github.com/user-attachments/assets/3250cc4b-be8a-487b-9789-1c8efced866d">
